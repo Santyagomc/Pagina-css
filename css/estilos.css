@@ -1,0 +1,177 @@
+* {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: url(../img/montaña.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.headerInicial {
+    background-color: #90EE90;
+    width: 82%;
+    height: 90px;
+    margin-left: 10%;
+    border-radius: 10px;
+    border: solid black;
+    box-shadow: 10px 10px 5px white;
+}
+
+section {
+    height: 100px;
+}
+
+
+/* clases*/
+
+.headerSubTitulo {
+    padding-top: 7px;
+    height: 40px;
+    width: 80%;
+    background-color: #808080;
+    margin-left: 10%;
+    border-radius: 10px;
+    border: solid black;
+}
+
+.sectionIzquierdo {
+    background-color: #90EE90;
+    width: 40%;
+    height: 900px;
+    border-radius: 10px;
+    margin-left: 10%;
+    float: left;
+    border: solid black;
+    box-shadow: 10px 10px 5px white;
+}
+
+.menuSectionIzquierdo {
+    background-image: url(../img/camino.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 80%;
+    height: 70%;
+    border-radius: 10px;
+    border: solid black;
+    margin-left: 10%;
+}
+
+.footerSectionIzquierdo {
+    width: 80%;
+    height: 80px;
+    border-radius: 10px;
+    margin-left: 10%;
+    background-color: #808080;
+    border: solid black;
+}
+
+.sectionDerecho {
+    background-color: #90EE90;
+    width: 40%;
+    height: 900px;
+    border-radius: 10px;
+    margin-left: 20px;
+    float: left;
+    border: solid black;
+    box-shadow: 10px 10px 5px white;
+}
+
+.articleSectionDerecho {
+    width: 90%;
+    margin-left: 5%;
+    border: solid black;
+    border-radius: 10px;
+}
+
+.articuloContenido {
+    width: 90%;
+    background-color: #808080;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 5%;
+    border: solid black;
+}
+
+.parrafoArticleDerecho {
+    width: 50%;
+    height: 90px;
+    border-radius: 10px;
+    background-color: #808080;
+    margin-left: 5%;
+    float: left;
+    border: solid black;
+}
+
+.asideArticleDerecho {
+    float: left;
+    width: 30%;
+    height: 90px;
+    margin-top: 16px;
+    margin-left: 40px;
+    background-color: #808080;
+    border-radius: 10px;
+    border: solid black;
+}
+
+.footerArticleDerecho {
+    height: 40px;
+    width: 90%;
+    background-color: #808080;
+    margin-left: 5%;
+    margin-top: 130px;
+    border-radius: 10px;
+    text-align: center;
+    border: solid black;
+}
+
+.footerFinal {
+    background-color: #90EE90;
+    width: 82%;
+    height: 90px;
+    margin-left: 10%;
+    border-radius: 10px;
+    margin-top: 930px;
+    border: solid black;
+    box-shadow: 10px 10px 5px Swhite;
+}
+
+.imgMar {
+    margin-top: 2%;
+    width: 70%;
+    height: 60%;
+    border-radius: 50%;
+    border: solid black;
+}
+
+.imgLuna {
+    margin-top: 1%;
+    width: 70%;
+    height: 248px;
+    border-radius: 50%;
+    border: solid black;
+    margin-bottom: 1%;
+}
+
+.imgNoticia {
+    width: 70%;
+    height: 58px;
+    border-radius: 10%;
+    border: solid black;
+}
+
+
+/*Identificadores*/
+
+#menuInicial {
+    background-color: #808080;
+    height: 50px;
+    width: 80%;
+    font-size: 40px;
+    margin-left: 10%;
+    border-radius: 10px;
+    border: solid black;
+}
